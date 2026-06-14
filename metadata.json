@@ -1,0 +1,6 @@
+{
+  "name": "محلل صور العين الطبي",
+  "description": "تطبيق طبي ذكي يحلل صور العين للكشف عن المشاكل المختلفة مثل الاحمرار، الاصفرار، إجهاد العين، والمياه البيضاء مع تحديد دقيق لمكان الإصابة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
